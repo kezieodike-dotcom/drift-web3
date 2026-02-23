@@ -1,0 +1,8 @@
+{
+  "name": "DRIFT HUB",
+  "description": "AI-Powered Web3 Innovation Infrastructure. Decentralized intelligence for builders and investors.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
